@@ -1,0 +1,14 @@
+D:\KompasDemo\KompasLauncher\KompasLauncher\bin\Debug\KompasLauncher.exe.config
+D:\KompasDemo\KompasLauncher\KompasLauncher\bin\Debug\KompasLauncher.exe
+D:\KompasDemo\KompasLauncher\KompasLauncher\bin\Debug\KompasLauncher.pdb
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\KompasLauncher.csproj.AssemblyReference.cache
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\Interop.Kompas6API5.dll
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\Interop.Kompas6Constants.dll
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\KompasLauncher.csproj.ResolveComReference.cache
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\KompasLauncher.Form1.resources
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\KompasLauncher.Properties.Resources.resources
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\KompasLauncher.csproj.GenerateResource.cache
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\KompasLauncher.csproj.CoreCompileInputs.cache
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\KompasLauncher.exe
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\KompasLauncher.pdb
+D:\KompasDemo\KompasLauncher\KompasLauncher\obj\Debug\Interop.Kompas6Constants3D.dll
