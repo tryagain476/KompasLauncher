@@ -133,5 +133,8 @@
   <ItemGroup>
     <None Include="btnCircularPlatePNG.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Фон.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
