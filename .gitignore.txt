@@ -6,5 +6,5 @@
 *.sln.docstates
 
 # Сборки
-bin/
-obj/
+KompasLauncher/bin/
+KompasLauncher/obj/

@@ -36,8 +36,9 @@
             // 
             this.btnBackToMain.BackColor = System.Drawing.Color.White;
             this.btnBackToMain.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnBackToMain.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnBackToMain.ForeColor = System.Drawing.Color.Black;
-            this.btnBackToMain.Location = new System.Drawing.Point(333, 209);
+            this.btnBackToMain.Location = new System.Drawing.Point(13, 442);
             this.btnBackToMain.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.btnBackToMain.Name = "btnBackToMain";
             this.btnBackToMain.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -51,7 +52,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.BackColor = System.Drawing.Color.AntiqueWhite;
             this.ClientSize = new System.Drawing.Size(933, 519);
             this.Controls.Add(this.btnBackToMain);
             this.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
