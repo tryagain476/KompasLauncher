@@ -7,15 +7,19 @@
       "RelativeMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|solutionrelative:kompaslauncher\\rectangularplateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|d:\\kompasdemo\\kompaslauncher\\kompaslauncher\\rectangularplateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|D:\\KompasDemo\\KompasLauncher\\kompaslauncher\\rectangularplateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|solutionrelative:kompaslauncher\\rectangularplateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|d:\\kompasdemo\\kompaslauncher\\kompaslauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|D:\\KompasDemo\\KompasLauncher\\kompaslauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|solutionrelative:kompaslauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|d:\\kompasdemo\\kompaslauncher\\kompaslauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|D:\\KompasDemo\\KompasLauncher\\kompaslauncher\\rectangularplateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|solutionrelative:kompaslauncher\\rectangularplateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|D:\\KompasDemo\\KompasLauncher\\kompaslauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF4C4342-B276-4F3A-82D1-175661344CE2}|KompasLauncher\\KompasLauncher.csproj|solutionrelative:kompaslauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,8 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\Form1.cs",
+              "RelativeDocumentMoniker": "KompasLauncher\\Form1.cs",
+              "ToolTip": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\Form1.cs",
+              "RelativeToolTip": "KompasLauncher\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:56:39.463Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RectangularPlateForm.Designer.cs",
+              "DocumentMoniker": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\RectangularPlateForm.Designer.cs",
+              "RelativeDocumentMoniker": "KompasLauncher\\RectangularPlateForm.Designer.cs",
+              "ToolTip": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\RectangularPlateForm.Designer.cs",
+              "RelativeToolTip": "KompasLauncher\\RectangularPlateForm.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAYwLcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:36:57.433Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +65,7 @@
               "RelativeDocumentMoniker": "KompasLauncher\\RectangularPlateForm.cs",
               "ToolTip": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\RectangularPlateForm.cs",
               "RelativeToolTip": "KompasLauncher\\RectangularPlateForm.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T13:36:12.739Z",
               "EditorCaption": ""
@@ -50,21 +79,7 @@
               "ToolTip": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\RectangularPlateForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "KompasLauncher\\RectangularPlateForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:10:09.998Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\Form1.cs",
-              "RelativeDocumentMoniker": "KompasLauncher\\Form1.cs",
-              "ToolTip": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\Form1.cs",
-              "RelativeToolTip": "KompasLauncher\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T12:56:39.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T13:10:09.998Z"
             },
             {
               "$type": "Document",
@@ -75,8 +90,7 @@
               "ToolTip": "D:\\KompasDemo\\KompasLauncher\\KompasLauncher\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "KompasLauncher\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:03:26.669Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-05-04T10:03:26.669Z"
             }
           ]
         }
